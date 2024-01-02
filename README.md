@@ -17,7 +17,7 @@ Project is created with:
 * All Cards CRUD operations
 * All Decks of Cards CRUD operations
 * Active recall implemantation with incrementing time intervals
-* Repetition sub-deck for hard-words to recall in shorter intervals
+* Repetition sub-deck for words that need more practice
 * Cram learning session with low time interval repetion
 * Creating mirror decks (inverting front and back of a card)
 * User authorization using OAuth2 authetithication *
