@@ -3,7 +3,7 @@ Learning tool web app based on active recall principle.
 
 
 
-Previous version in my Flashcards repository (then using .NET backend):
+Previous version is available in my Flashcards repository (then using .NET backend):
 ~~~
 https://github.com/xkelo/Flashcards
 ~~~
@@ -15,9 +15,14 @@ Project is created with:
 
 ## Main functionalities:
 * All Cards CRUD operations
-* User authorization using OAuth2 authetithication * 
+* All Decks of Cards CRUD operations
+* Active recall implemantation with incrementing time intervals
+* Repetition sub-deck for hard-words to recall in shorter intervals
+* Cram learning session with low time interval repetion
+* Creating mirror decks (inverting front and back of a card)
+* User authorization using OAuth2 authetithication *
+* Simple way to copy/change decks via text file (availability to share decks between users)
+* Different card types (e.g. picture or sound in addition to normal text cards) *
 
-
-
-('*' means it's not implemented yet)
+('*' means it's work in progress or not implemented yet)
 
