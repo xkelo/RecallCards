@@ -13,7 +13,7 @@ Project is created with:
 * Java 21 (using Spring Boot)
 * Angular 17
 
-## Main functionalities:
+## Main functionality:
 * All Cards CRUD operations
 * All Decks of Cards CRUD operations
 * Active recall implemantation with incrementing time intervals
