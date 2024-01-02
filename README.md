@@ -3,8 +3,10 @@ Learning tool web app based on active recall principle.
 
 
 
-Previous version in (then using .NET backend):
-$ https://github.com/xkelo/Flashcards repository
+Previous version in my Flashcards repository (then using .NET backend):
+~~~
+$ https://github.com/xkelo/Flashcards
+~~~
 
 ## Technologies
 Project is created with:
